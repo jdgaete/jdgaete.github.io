@@ -105,26 +105,6 @@
         {%- endfor -%}
       {%- endfor -%}
       {%- if site.socials_in_search -%}
-        {%- if site.github_username -%}
-          {
-            id: 'socials-github',
-            title: 'GitHub',
-            section: 'Socials',
-            handler: () => {
-              window.open("https://github.com/{{ site.github_username }}", "_blank");
-            },
-          },
-        {%- endif -%}
-        {%- if site.linkedin_username -%}
-          {
-            id: 'socials-linkedin',
-            title: 'LinkedIn',
-            section: 'Socials',
-            handler: () => {
-              window.open("https://www.linkedin.com/in/{{ site.linkedin_username }}", "_blank");
-            },
-          },
-        {%- endif -%}
         {%- if site.email -%}
           {
             id: 'socials-email',
@@ -162,6 +142,26 @@
             section: 'Socials',
             handler: () => {
               window.open("https://orcid.org/{{ site.orcid_id }}", "_blank");
+            },
+          },
+        {%- endif -%}
+        {%- if site.scholar_userid -%}
+          {
+            id: 'socials-google-scholar',
+            title: 'Google Scholar',
+            section: 'Socials',
+            handler: () => {
+              window.open("https://scholar.google.com/citations?user={{ site.scholar_userid }}", "_blank");
+            },
+          },
+        {%- endif -%}
+        {%- if site.semanticscholar_id -%}
+          {
+            id: 'socials-semantic-scholar',
+            title: 'Semantic Scholar',
+            section: 'Socials',
+            handler: () => {
+              window.open("https://www.semanticscholar.org/author/{{ site.semanticscholar_id }}", "_blank");
             },
           },
         {%- endif -%}
@@ -231,6 +231,26 @@
             section: 'Socials',
             handler: () => {
               window.open("https://www.scopus.com/authid/detail.uri?authorId={{site.scopus_id}}", "_blank");
+            },
+          },
+        {%- endif -%}
+        {%- if site.github_username -%}
+          {
+            id: 'socials-github',
+            title: 'GitHub',
+            section: 'Socials',
+            handler: () => {
+              window.open("https://github.com/{{ site.github_username }}", "_blank");
+            },
+          },
+        {%- endif -%}
+        {%- if site.linkedin_username -%}
+          {
+            id: 'socials-linkedin',
+            title: 'LinkedIn',
+            section: 'Socials',
+            handler: () => {
+              window.open("https://www.linkedin.com/in/{{ site.linkedin_username }}", "_blank");
             },
           },
         {%- endif -%}
