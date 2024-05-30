@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Sebastian Gaete # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Sebastian
 middle_name: 
 last_name: Gaete
@@ -236,6 +236,12 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/blog
+  - _pages/publications
+  - _pages/teaching
+  - _pages/people
+  - _pages/projects
+  - _pages/repositories
 keep_files:
   - CNAME
   - .nojekyll
