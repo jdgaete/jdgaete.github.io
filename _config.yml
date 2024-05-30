@@ -241,7 +241,6 @@ exclude:
   - _pages/teaching
   - _pages/people
   - _pages/projects
-  - _pages/repositories
   - _pages/profiles
 keep_files:
   - CNAME
