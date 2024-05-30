@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: swgaetem@gmail.com | +1 (737) 354-5620
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <center><p>1910 Rio Grande St.</p></center>
+    <center><p>Austin, Texas 78705</p></center>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
