@@ -13,13 +13,15 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm Sebastian Gaete, a passionate and driven software engineer with a robust academic background and professional experience. I recently earned my Master of Science in Computer Science from the University of Texas at Austin. Prior to that, I completed a Master of Engineering at Pontificia Universidad Católica de Chile and a dual degree in Applied Mathematics from École Centrale de Lille in France. I also hold a Bachelor's degree in Industrial Civil Engineering with a major in Information Technologies from Pontificia Universidad Católica de Chile.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to my MSc. in Computer Science, I refined my programming and analytical skills through critical roles in the airline industry, focusing on software development, operational efficiency and cost reduction. I honed my skills in Python and SQL to develop software solutions and databases that allowed data-driven decisions, effectively enhanced operational efficiency, reduced cost and increased margins in the airline industry. This experience not only sharpened my technical skills but also enriched my understanding in finance, business strategy, and project management—skills I consider essential for a successful software engineer.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I love to stay active by playing sports like soccer and tennis. Traveling is a big passion of mine, as it allows me to experience and learn about new cultures. I also cherish the moments spent with friends, whether we're exploring new places or simply enjoying each other's company.
+
+I am now looking to leverage my skills and experiences in a dynamic software engineering role where I can contribute to innovative projects and continue to grow as a professional. Feel free to connect with me on [LinkedIn](https://linkedin.com/in/sebastianwgm), explore my projects on [GitHub](https://github.com/sebastianwgm), or contact me by email. Let's create something amazing together!
