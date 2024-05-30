@@ -58,8 +58,11 @@
       "startDate": "2019-08",
       "endDate": "2022-07",
       "summary": "",
-      "highlights": ["Developed and executed Python-based solutions to adhere to crew regulations and optimize crew shift distribution.", "Constructed and implemented datasets to support SQL queries, resulted in a 10% increase of the fleet utilization.",
-      "Implemented data-driven forecasting for unscheduled maintenance failures in the cargo fleet, achieving a 7% reduction in maintenance hours thanks to preventive maintenance measures."]
+      "highlights": [
+        "Developed and executed Python-based solutions to adhere to crew regulations and optimize crew shift distribution.",
+        "Constructed and implemented datasets to support SQL queries, resulted in a 10% increase of the fleet utilization.",
+        "Implemented data-driven forecasting for unscheduled maintenance failures in the cargo fleet, achieving a 7% reduction in maintenance hours thanks to preventive maintenance measures."
+      ]
     },
     {
       "name": "Latam Airlines",
@@ -69,8 +72,11 @@
       "startDate": "2019-08",
       "endDate": "2022-07",
       "summary": "",
-      "highlights": ["Ranked 1st among procurement and finance analysts.","Designed and executed a fuel import project in Brazil, which is the company’s largest market. The initiative resulted in savings of $55M USD for LATAM and $165M for the Brazilian jet fuel industry.",
-      "Developed fuel optimization models for flight routes, saving $10M and significant reductions in CO2 emissions."]
+      "highlights": [
+        "Ranked 1st among procurement and finance analysts.",
+        "Designed and executed a fuel import project in Brazil, which is the company’s largest market. The initiative resulted in savings of $55M USD for LATAM and $165M for the Brazilian jet fuel industry.",
+        "Developed fuel optimization models for flight routes, saving $10M and significant reductions in CO2 emissions."
+      ]
     }
   ],
   "skills": [
