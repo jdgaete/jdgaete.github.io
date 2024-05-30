@@ -1,13 +1,13 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
 subtitle: swgaetem@gmail.com   |   +1 (737) 354-5620
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <center><p style="text-align: center;">1910 Rio Grande St.</p></center>
     <center><p style="text-align: center;">Austin, Texas 78705</p></center>

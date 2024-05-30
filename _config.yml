@@ -45,7 +45,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 
 # Dimensions
@@ -238,6 +238,8 @@ exclude:
   - _pages/people
   - _pages/submenus
   - _pages/profiles.md
+  - _pages/dropdown.md
+  - _pages/projects.md
 keep_files:
   - CNAME
   - .nojekyll
