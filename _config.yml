@@ -240,8 +240,8 @@ exclude:
   - _pages/publications
   - _pages/teaching
   - _pages/people
-  - _pages/projects
   - _pages/profiles
+  - _pages/repositories
 keep_files:
   - CNAME
   - .nojekyll
