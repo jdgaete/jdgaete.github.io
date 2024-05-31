@@ -240,7 +240,6 @@ exclude:
   - _pages/publications
   - _pages/teaching
   - _pages/people
-  - _pages/projects
   - _pages/profiles
 keep_files:
   - CNAME
