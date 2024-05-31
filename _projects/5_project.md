@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Speech-to-Speech Translation
-description: A Survey of the current S2ST methods.
+title: Speech-to-Speech Translation. A survey
+description: A survey paper focused on the task of S2ST. Centered on direct, text-less and multilingual S2ST
 img: assets/img/s2st.jpg
 importance: 5
 category: work

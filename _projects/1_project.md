@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Ray Tracer
-description: Performed a Ray-Tracer algorithm in C++ with ray-object collision detection by using BVH.
+description: Performed a Ray-Tracer algorithm in C++ with ray-object collision detection by using BVH
 img: assets/img/ray_tracer.jpg
 importance: 1
 category: work
 related_publications: false
 ---
 
-In this project, Lamha and I we implemented a ray-tracing algorithm with ray-object collision detection by using bounding volume hierarchy (BVH). We also included texture and cube mapping, antialiasing by adaptive supersampling, adaptive termination criterion for tracing rays based on ray contribution and implementation of stochastic (jittered) supersampling.
+In this project, we implemented a ray-tracing algorithm with ray-object collision detection by using bounding volume hierarchy (BVH). We also included texture and cube mapping, antialiasing by adaptive supersampling, adaptive termination criterion for tracing rays based on ray contribution and implementation of stochastic (jittered) supersampling.
 
 [CODE](https://github.com/lamhagoel/GraphicsRayTracing.git)
 

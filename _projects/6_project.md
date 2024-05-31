@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Group Membership Management Protocols
-description: Studied these protocols in fault-tolerant distributed systems. Synchronous, asynchronous and hybrids.
+description: Studied the current protocols in fault-tolerant distributed systems. Synchronous, asynchronous and hybrids
 img: assets/img/dependable.jpg
 importance: 6
 category: work

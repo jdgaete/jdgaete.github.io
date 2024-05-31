@@ -150,7 +150,7 @@
     },
     {
       "name": "Group Membership Management Protocols",
-      "summary": "Studied these protocols in fault-tolerant distributed systems: synchronous, asynchronous and hybrids.",
+      "summary": "Studied the different protocols in fault-tolerant distributed systems: synchronous, asynchronous and hybrids.",
       "highlights": ["Distributed Systems", "Group Membership Management"],
       "startDate": "2023-04",
       "endDate": "2023-05",
@@ -174,7 +174,7 @@
     },
     {
       "name": "Undergraduate Research, Ecole Centrale de Lille at France",
-      "summary": "Implemented solutions through linear programming to optimize the scheduling of train conductors at SNCF.",
+      "summary": "Performed research on the optimization of train conductors' schedules at SNCF (Société nationale des chemins de fer français). Developed solutions using linear programming and genetic algorithms for optimizing the assignment and scheduling of train conductors at Bordeaux train station, considering days off and union rules.",
       "highlights": "",
       "startDate": "2016-01",
       "endDate": "2016-06",
@@ -216,18 +216,11 @@
       "url": "",
       "startDate": "2014-01",
       "endDate": "2014-12",
-      "summary": "Led a team of 6 people responsible for assisting the university international students.",
+      "summary": "Led a team of 6 people responsible for assisting the university international students. Organized and managed mentoring groups and provided assistance to new students as they adjusted to the  University. Planned and managed international students activities at the university to promote multiculturalism.",
       "highlights": ""
     }
   ],
   "awards": [
-    {
-      "title": "Mecesup Academic Scholarship",
-      "date": "2013-06",
-      "awarder": "Chilean Government",
-      "url": "",
-      "summary": "Scholarship awarded to students with excellent academic performance pursuing studies abroad."
-    },
     {
       "title": "Mecesup Academic Scholarship",
       "date": "2013-06",
