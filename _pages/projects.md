@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Some of my recent projects.
+description: In this section you may some of my most recent projects
 nav: true
 nav_order: 6
 display_categories: [work]
