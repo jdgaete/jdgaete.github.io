@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <center><p>1910 Rio Grande St.</p></center>
-    <center><p>Austin, Texas 78705</p></center>
+    <center><p>Florencia 1182, dpto. 131</p></center>
+    <center><p>Santiago, Chile</p></center>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
