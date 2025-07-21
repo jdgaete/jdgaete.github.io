@@ -237,6 +237,7 @@ exclude:
   - _pages/people
   - _pages/profiles
   - _pages/repositories
+  - _projects/
 keep_files:
   - CNAME
   - .nojekyll
