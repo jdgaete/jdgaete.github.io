@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: swgaetem@gmail.com | +1 (737) 354-5620
+subtitle: jdgaetemora@gmail.com | +569 4469 4534
 
 profile:
   align: right
