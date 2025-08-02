@@ -4,7 +4,7 @@
     "image": "",
     "email": "swgaetem@gmail.com",
     "phone": "+1 (737) 354-5620",
-    "website": "https://sebastianwgm.github.io/",
+    "website": "https://jdgaete.github.io/",
     "summary": "Recently graduated, multidisciplinary Software Engineer with excellent problem solving abilities and process-thinking skill seeks hands on experience within a company that embraces creativity and innovation.",
     "location": {
       "address": "1910 Rio Grande St.",
@@ -138,7 +138,7 @@
       "highlights": ["Typescript", "Computer Graphics"],
       "startDate": "2024-03",
       "endDate": "2024-04",
-      "url": "https://github.com/sebastianwgm/minecraft"
+      "url": "https://github.com/jdgaete/minecraft"
     },
     {
       "name": "Speech-to-Speech Translation (S2ST): A Survey",
