@@ -21,7 +21,7 @@
       "url": "https://www.uc.cl/",
       "area": [
         "Distinción matrícula de honor por excelencia académica.",
-        "Ranking N8 de la generación."
+        "\nRanking N8 de la generación."
       ],
       "studyType": "Trabajo Social",
       "startDate": "2015-03",
@@ -33,11 +33,11 @@
       "url": "https://www.uc.cl/",
       "studyType": "Curso en Inglés Intermedio-alto para el contexto laboral",
       "startDate": "2025-06",
-      "endDate": "Cursando"
+      "endDate": "Actual"
     },
     {
       "institution": "New Zealand Language Center",
-      "location": "Auckland, Nueva Zelanda",
+      "location": "Auckland, NZ",
       "studyType": "Curso de formación integral en inglés",
       "startDate": "2024-09",
       "endDate": "2025-04"
@@ -65,7 +65,7 @@
       "position": "Perito Social Privada",
       "location": "Santiago, Chile",
       "startDate": "2021-07",
-      "endDate": "Cursando",
+      "endDate": "Actual",
       "summary": "",
       "highlights": [
         "Responsable de peritajes sociales para evaluar arraigo sociofamiliar, situación habitacional, violencia intrafamiliar y de género, reinserción laboral y formativa, responsabilidades parentales y evaluación psicosocial.",
@@ -130,17 +130,7 @@
       ]
     }
   ],
-  "skills": [
-    {
-      "name": "Programming Knowledge",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python | C++ | C | Debugger Use (gdb) | Java | TypeScript | OpenGL | SQL | Linux (kernel/user mode) and Unix shell | R | VBA | Open Source (GitHub/ GitLab)."
-      ]
-    }
-  ],
-  "projects": [
+  "Trayectoría Académica": [
     {
       "name": "Ray Tracer",
       "summary": "Performed a Ray-Tracer algorithm in C++ with ray-object collision detection by using BVH.",
@@ -219,6 +209,16 @@
       "startDate": "2016-01",
       "endDate": "2016-06",
       "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Knowledge",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python | C++ | C | Debugger Use (gdb) | Java | TypeScript | OpenGL | SQL | Linux (kernel/user mode) and Unix shell | R | VBA | Open Source (GitHub/ GitLab)."
+      ]
     }
   ],
   "languages": [
