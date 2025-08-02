@@ -184,9 +184,7 @@
       "highlights": [
         "Desempeñó funciones de ayudante académica en el curso de Derechos Humanos de la Escuela de Trabajo Social y en el curso de Bailes Teatrales de la Escuela de Teatro, colaborando en la planificación de clases, el apoyo directo a los estudiantes y la evaluación de actividades prácticas."
       ]
-    }
-  ],
-  "publications": [
+    },
     {
       "name": "Casos de Connotación Pública",
       "location": "Santiago, Chile",
@@ -198,6 +196,34 @@
         "“Gastos Reservados”: Elaboró peritaje que fundamentó la revisión de medidas cautelares en la causa contra el ex General Director de Carabineros B. Villalobos, desde un enfoque de derechos.",
         "En el proceso por fraude al fisco y malversación del exalcalde de Guaitecas, integró un análisis de su salud desde la perspectiva del adulto mayor."
       ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Mecesup Academic Scholarship",
+      "date": "2013-06",
+      "awarder": "Chilean Government",
+      "url": "",
+      "summary": "Scholarship awarded to students with excellent academic performance pursuing studies abroad."
+    },
+    {
+      "title": "Bicentenario Academic Scholarship",
+      "date": "2015-07",
+      "awarder": "Chilean Government",
+      "url": "",
+      "summary": "Scholarship for students with excellent academic performance and low resources"
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor Julio Pertuze, PhD. Thesis Advisor",
+      "icon": "fa-solid fa-laptop",
+      "reference": "jpertuze@ing.puc.cl  |  +56 9 6102 2661"
+    },
+    {
+      "name": "Stephano Gachet. Former Supervisor",
+      "icon": "fa-solid fa-laptop",
+      "reference": "stephano.gachet@latam.com  |  +56 9 6108 4406"
     }
   ],
   "skills": [
@@ -247,34 +273,6 @@
       "endDate": "2014-12",
       "summary": "Led a team of 6 people responsible for assisting the university international students. Organized and managed mentoring groups and provided assistance to new students as they adjusted to the  University. Planned and managed international students activities at the university to promote multiculturalism.",
       "highlights": ""
-    }
-  ],
-  "awards": [
-    {
-      "title": "Mecesup Academic Scholarship",
-      "date": "2013-06",
-      "awarder": "Chilean Government",
-      "url": "",
-      "summary": "Scholarship awarded to students with excellent academic performance pursuing studies abroad."
-    },
-    {
-      "title": "Bicentenario Academic Scholarship",
-      "date": "2015-07",
-      "awarder": "Chilean Government",
-      "url": "",
-      "summary": "Scholarship for students with excellent academic performance and low resources"
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor Julio Pertuze, PhD. Thesis Advisor",
-      "icon": "fa-solid fa-laptop",
-      "reference": "jpertuze@ing.puc.cl  |  +56 9 6102 2661"
-    },
-    {
-      "name": "Stephano Gachet. Former Supervisor",
-      "icon": "fa-solid fa-laptop",
-      "reference": "stephano.gachet@latam.com  |  +56 9 6108 4406"
     }
   ]
 }
