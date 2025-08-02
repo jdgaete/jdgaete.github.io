@@ -76,7 +76,7 @@
     {
       "name": "Iversen Stagecrew",
       "position": "Asistente de Producción de Eventos Musicales",
-      "location": "Copenhague, Dinamarca",
+      "location": "Copenhague, DK",
       "startDate": "2024-04",
       "endDate": "2024-09",
       "summary": "",
@@ -130,7 +130,57 @@
       ]
     }
   ],
-  "Trayectoría Académica": [
+  "academia": [
+    {
+      "name": "Memory Studies Association Conference ",
+      "position": "Panelista",
+      "location": "Varsovia, PL",
+      "startDate": "2020",
+      "summary": "",
+      "highlights": [
+        "Presentó hallazgos de su investigación sobre el uso de prótesis visuales en la promoción de la memoria colectiva y su impacto en el fortalecimiento de la democracia."
+      ]
+    },
+    {
+      "name": "Memory Studies Association Conference ",
+      "position": "Panelista",
+      "location": "Varsovia, PL",
+      "startDate": "2020",
+      "summary": "",
+      "highlights": [
+        "Presentó hallazgos de su investigación sobre el uso de prótesis visuales en la promoción de la memoria colectiva y su impacto en el fortalecimiento de la democracia."
+      ]
+    },
+    {
+      "name": "Memory Studies Association Conference ",
+      "position": "Panelista",
+      "location": "Varsovia, PL",
+      "startDate": "2020",
+      "summary": "",
+      "highlights": [
+        "Presentó hallazgos de su investigación sobre el uso de prótesis visuales en la promoción de la memoria colectiva y su impacto en el fortalecimiento de la democracia."
+      ]
+    },
+    {
+      "name": "Memory Studies Association Conference ",
+      "position": "Panelista",
+      "location": "Varsovia, PL",
+      "startDate": "2020",
+      "summary": "",
+      "highlights": [
+        "Presentó hallazgos de su investigación sobre el uso de prótesis visuales en la promoción de la memoria colectiva y su impacto en el fortalecimiento de la democracia."
+      ]
+    },
+    {
+      "name": "Memory Studies Association Conference ",
+      "position": "Panelista",
+      "location": "Varsovia, PL",
+      "startDate": "2020",
+      "summary": "",
+      "highlights": [
+        "Presentó hallazgos de su investigación sobre el uso de prótesis visuales en la promoción de la memoria colectiva y su impacto en el fortalecimiento de la democracia."
+      ]
+    },
     {
       "name": "Ray Tracer",
       "summary": "Performed a Ray-Tracer algorithm in C++ with ray-object collision detection by using BVH.",
