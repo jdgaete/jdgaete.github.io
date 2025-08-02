@@ -32,13 +32,14 @@
       "location": "Santiago, Chile",
       "url": "https://www.uc.cl/",
       "studyType": "Curso en Inglés Intermedio-alto para el contexto laboral",
-      "startDate": "2025-06",
+      "startDate": "2025-07",
       "endDate": "Actual"
     },
     {
       "institution": "New Zealand Language Center",
       "location": "Auckland, NZ",
       "studyType": "Curso de formación integral en inglés",
+      "area": "Nivel B2 de inglés",
       "startDate": "2024-09",
       "endDate": "2025-04"
     },
@@ -54,9 +55,9 @@
     {
       "institution": "ASR Capacitación",
       "location": "Santiago, Chile",
-      "studyType": "ASR Capacitación",
-      "startDate": "2021-01",
-      "endDate": "2021-03"
+      "studyType": "Excel Avanzado",
+      "startDate": "2021-06",
+      "endDate": "2021-09"
     }
   ],
   "work": [
@@ -182,6 +183,20 @@
       "summary": "",
       "highlights": [
         "Desempeñó funciones de ayudante académica en el curso de Derechos Humanos de la Escuela de Trabajo Social y en el curso de Bailes Teatrales de la Escuela de Teatro, colaborando en la planificación de clases, el apoyo directo a los estudiantes y la evaluación de actividades prácticas."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Casos de Connotación Pública",
+      "location": "Santiago, Chile",
+      "summary": "",
+      "highlights": [
+        "Martín de Los Santos: Realizó la evaluación social del imputado, identificando recursos, potencialidades y riesgo de reincidencia.",
+        "Caso OAS: Realizó evaluación psicosocial de M. Enríquez-Ominami y C. Warner, cuyo informe aportó antecedentes esenciales que contribuyeron a la absolución de MEO.",
+        "Cajahuanca vs. Perú: Peritaje social presentado ante la Corte IDH, clave para fundamentar la reparación integral en un caso de violaciones de derechos humanos bajo el régimen de A. Fujimori.",
+        "“Gastos Reservados”: Elaboró peritaje que fundamentó la revisión de medidas cautelares en la causa contra el ex General Director de Carabineros B. Villalobos, desde un enfoque de derechos.",
+        "En el proceso por fraude al fisco y malversación del exalcalde de Guaitecas, integró un análisis de su salud desde la perspectiva del adulto mayor."
       ]
     }
   ],
