@@ -1,52 +1,62 @@
 {
   "basics": {
-    "name": "Sebastian Gaete",
+    "name": "Javiera Gaete",
     "image": "",
-    "email": "swgaetem@gmail.com",
-    "phone": "+1 (737) 354-5620",
+    "email": "jdgaetemora@gmail.com",
+    "phone": "+569 4469 4534",
     "website": "https://jdgaete.github.io/",
-    "summary": "Recently graduated, multidisciplinary Software Engineer with excellent problem solving abilities and process-thinking skill seeks hands on experience within a company that embraces creativity and innovation.",
+    "summary": "Profesional con especialización en peritaje forense y gestión de proyectos sociales, avalada por investigaciones en arte y memoria difundidas en congresos y museos. Cuenta además con experiencia internacional en entornos educativos y culturales, habilidades en coordinación interdisciplinaria y análisis mixto de datos, y dominio avanzado de inglés.",
     "location": {
-      "address": "1910 Rio Grande St.",
-      "postalCode": "TX 78705",
-      "city": "Austin",
-      "countryCode": "US",
-      "region": "Texas"
+      "address": "Florencia 1182, dpto. 131",
+      "postalCode": "",
+      "city": "Santiago",
+      "countryCode": "CH",
+      "region": "Region Metropolitana"
     }
   },
   "education": [
     {
-      "institution": "University of Texas at Austin",
-      "location": "Austin, Texas",
-      "url": "https://www.utexas.edu/",
-      "area": "GPA: 3.8/4.0",
-      "studyType": "Master of Science in Computer Science",
-      "startDate": "2022-08",
-      "endDate": "2024-05"
+      "institution": "Pontificia Universidad Católica de Chile",
+      "location": "Santiago, Chile",
+      "url": "https://www.uc.cl/",
+      "area": [
+        "Distinción matrícula de honor por excelencia académica.",
+        "Ranking N8 de la generación."
+      ],
+      "studyType": "Trabajo Social",
+      "startDate": "2015-03",
+      "endDate": "2020-12"
     },
     {
       "institution": "Pontificia Universidad Católica de Chile",
       "location": "Santiago, Chile",
       "url": "https://www.uc.cl/",
-      "studyType": "Master of Engineering",
-      "startDate": "2017-01",
-      "endDate": "2018-01"
+      "studyType": "Curso en Inglés Intermedio-alto para el contexto laboral",
+      "startDate": "2025-06",
+      "endDate": "Cursando"
     },
     {
-      "institution": "École Centrale de Lille at France",
-      "location": "Lille, France",
-      "url": "https://centralelille.fr/en/",
-      "studyType": "Dual Degree with Master of Engineering, Major in Applied Mathematics",
-      "startDate": "2013-08",
-      "endDate": "2015-06"
+      "institution": "New Zealand Language Center",
+      "location": "Auckland, Nueva Zelanda",
+      "studyType": "Curso de formación integral en inglés",
+      "startDate": "2024-09",
+      "endDate": "2025-04"
     },
     {
       "institution": "Pontificia Universidad Católica de Chile",
       "location": "Santiago, Chile",
       "url": "https://www.uc.cl/",
-      "studyType": "Bachelor's Degree in Industrial Civil Engineering, Major in Information Technologies",
-      "startDate": "2011-03",
-      "endDate": "2016-12"
+      "area": "Promedio 6,5/7,0",
+      "studyType": "Diplomado en Pericias Sociales en Juicios Orales",
+      "startDate": "2020-07",
+      "endDate": "2021-01"
+    },
+    {
+      "institution": "ASR Capacitación",
+      "location": "Santiago, Chile",
+      "studyType": "ASR Capacitación",
+      "startDate": "2021-01",
+      "endDate": "2021-03"
     }
   ],
   "work": [
