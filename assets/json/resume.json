@@ -61,43 +61,73 @@
   ],
   "work": [
     {
-      "name": "Latam Cargo",
-      "position": "Network and Operations Senior Analyst, Strategic Planning",
-      "location": "Miami, Florida",
-      "url": "https://www.latamcargo.com/",
-      "startDate": "2019-08",
-      "endDate": "2022-07",
-      "summary": "",
-      "highlights": [
-        "Developed and executed Python-based solutions to adhere to crew regulations and optimize crew shift distribution.",
-        "Constructed and implemented datasets to support SQL queries, resulted in a 10% increase of the fleet utilization.",
-        "Implemented data-driven forecasting for unscheduled maintenance failures in the cargo fleet, achieving a 7% reduction in maintenance hours thanks to preventive maintenance measures."
-      ]
-    },
-    {
-      "name": "Latam Airlines",
-      "position": "Strategic Sourcing Analyst. ",
+      "name": "",
+      "position": "Perito Social Privada",
       "location": "Santiago, Chile",
-      "url": "https://www.latamairlines.com/us/en",
-      "startDate": "2018-01",
-      "endDate": "2019-07",
+      "startDate": "2021-07",
+      "endDate": "Cursando",
       "summary": "",
       "highlights": [
-        "Ranked 1st among procurement and finance analysts.",
-        "Designed and executed a fuel import project in Brazil, which is the company’s largest market. The initiative resulted in savings of $55M USD for LATAM and $165M for the Brazilian jet fuel industry.",
-        "Developed fuel optimization models for flight routes, saving $10M and significant reductions in CO2 emissions."
+        "Responsable de peritajes sociales para evaluar arraigo sociofamiliar, situación habitacional, violencia intrafamiliar y de género, reinserción laboral y formativa, responsabilidades parentales y evaluación psicosocial.",
+        "Elaboró más de 100 peritajes sociales en causas de alta connotación pública-política, colaborando con estudios jurídicos privados en procesos judiciales nacionales e internacionales, con enfoque en justicia restaurativa.",
+        "Colaboro con equipos interdisciplinarios en programas de restitución de derechos, coordinando talleres de fortalecimiento de vínculo parental y redes de apoyo comunitario."
       ]
     },
     {
-      "name": "Decathlon",
-      "position": "Software Engineer Intern",
-      "location": "Lille, France",
-      "url": "https://www.decathlon.com/",
-      "startDate": "2015-05",
-      "endDate": "2015-07",
+      "name": "Iversen Stagecrew",
+      "position": "Asistente de Producción de Eventos Musicales",
+      "location": "Copenhague, Dinamarca",
+      "startDate": "2024-04",
+      "endDate": "2024-09",
       "summary": "",
       "highlights": [
-        "Led the implementation and execution of MEGA software (Managing Enterprise Complexity) that was used to model the company's structure."]
+        "Producción de backstages para Metallica, Rammstein y Nicki Minaj, garantizando la fluidez y puntualidad de cada presentación.",
+        "Gestión y coordinación de personal de apoyo (técnicos, runners y montajistas), asignando tareas y supervisando el cumplimiento de cronogramas.",
+        "Colaboró en el montaje y desmontaje de escenarios, iluminación y sonido, asegurando la calidad técnica y el respeto a los protocolos de seguridad."
+      ]
+    },
+    {
+      "name": "Defensoría Penal Pública",
+      "position": "Perito Social",
+      "location": "Santiago, Chile",
+      "startDate": "2021-06",
+      "endDate": "2024-03",
+      "summary": "",
+      "highlights": [
+        "Elaboró más de 1.000 peritajes psicosociales con entrevistas, NCFAS-G, genogramas, visitas domiciliarias y análisis documental.",
+        "Identificación de redes de apoyo y factores clave para ajustar medidas cautelares y sentencias con enfoque de derechos humanos.",
+        "Exposiciones orales ante tribunales, con alta aceptación de sus recomendaciones.",
+        "Gestión de intervenciones para optimizar la coordinación entre equipos jurídicos, instituciones externas e imputados.",
+        "Intervención en crisis para personas privadas de libertad y sus familias, facilitando beneficios penitenciarios."
+      ]
+    },
+    {
+      "name": "Universidad Diego Portales",
+      "position": "Asistente de Ayudas Estudiantiles",
+      "location": "Santiago, Chile",
+      "startDate": "2023-08",
+      "endDate": "2024-01",
+      "summary": "",
+      "highlights": [
+        "Gestionó e implementó talleres grupales de adaptación universitaria ajustando contenidos según las necesidades y evaluando su impacto.",
+        "Capacitación y supervisión de monitores y tutores, asegurando estándares pedagógicos y un seguimiento personalizado a estudiantes en vulnerabilidad.",
+        "Exposiciones orales ante tribunales, con alta aceptación de sus recomendaciones.",
+        "Articuló alianzas con organizaciones comunitarias y servicios locales para potenciar la continuidad académica.",
+        "Adaptó metodologías inclusivas y formativas para poblaciones vulnerables."
+      ]
+    },
+    {
+      "name": "Fundación Juventud Emprendedora",
+      "position": "Facilitador de Diagnóstico y Acompañamiento Social",
+      "location": "Santiago, Chile",
+      "startDate": "2021-04",
+      "endDate": "2021-07",
+      "summary": "",
+      "highlights": [
+        "Contribuyó al diagnóstico psicosocial de familias y jóvenes, orientando la mejora de procesos educativos y reduciendo la deserción.",
+        "Diseñó y facilitó talleres socioeducativos: proyecto de vida, autocuidado y participación comunitaria.",
+        "Coordinó con docentes y equipos interdisciplinarios, garantizando un acompañamiento integral y el seguimiento personalizado de los participantes."
+      ]
     }
   ],
   "skills": [
