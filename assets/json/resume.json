@@ -130,9 +130,9 @@
       ]
     }
   ],
-  "academia": [
+  "projects": [
     {
-      "name": "Memory Studies Association Conference ",
+      "name": "Memory Studies Association Conference",
       "position": "Panelista",
       "location": "Varsovia, PL",
       "startDate": "2020",
@@ -142,123 +142,47 @@
       ]
     },
     {
-      "name": "Memory Studies Association Conference ",
-      "position": "Panelista",
-      "location": "Varsovia, PL",
+      "name": "Encuentro Dibujos que Hablan",
+      "position": "Expositora",
+      "location": "Santiago, Chile",
       "startDate": "2020",
       "summary": "",
       "highlights": [
-        "Presentó hallazgos de su investigación sobre el uso de prótesis visuales en la promoción de la memoria colectiva y su impacto en el fortalecimiento de la democracia."
+        "Expuso su investigación sobre las intersecciones entre arte, memoria y lenguajes gráficos en Latinoamérica, enriqueciendo el debate académico en torno a la justicia social mediante la gráfica."
       ]
     },
     {
-      "name": "Memory Studies Association Conference ",
-      "position": "Panelista",
-      "location": "Varsovia, PL",
-      "startDate": "2020",
+      "name": "Proyecto Anillos (CONICYT-SOC180005)",
+      "position": "Tesista de Pregrado ",
+      "location": "Santiago, Chile",
+      "startDate": "2019",
+      "endDate": "2020",
       "summary": "",
       "highlights": [
-        "Presentó hallazgos de su investigación sobre el uso de prótesis visuales en la promoción de la memoria colectiva y su impacto en el fortalecimiento de la democracia."
+        "Desarrolló investigación-acción sobre memorias de derechos humanos en sitios de memoria, combinando entrevistas semiestructuradas y análisis mixto (SPSS), y difundió sus resultados en foros académicos nacionales e internacionales."
       ]
     },
     {
-      "name": "Memory Studies Association Conference ",
-      "position": "Panelista",
-      "location": "Varsovia, PL",
-      "startDate": "2020",
+      "name": "Museo de la Memoria y los Derechos Humanos",
+      "position": "Investigadora",
+      "location": "Santiago, Chile",
+      "startDate": "2019",
+      "endDate": "2020",
       "summary": "",
       "highlights": [
-        "Presentó hallazgos de su investigación sobre el uso de prótesis visuales en la promoción de la memoria colectiva y su impacto en el fortalecimiento de la democracia."
+        "Lideró un proyecto social de arte y memoria que integró investigación de campo y acción participativa, publicado oficialmente por el museo. Esta iniciativa potenció la visibilidad y la calidad de las intervenciones artísticas."
       ]
     },
     {
-      "name": "Memory Studies Association Conference ",
-      "position": "Panelista",
-      "location": "Varsovia, PL",
-      "startDate": "2020",
+      "name": "Pontificia Universidad Católica de Chile",
+      "position": "Asistente de Docencia",
+      "location": "Santiago, Chile",
+      "startDate": "2017-03",
+      "endDate": "2020-07",
       "summary": "",
       "highlights": [
-        "Presentó hallazgos de su investigación sobre el uso de prótesis visuales en la promoción de la memoria colectiva y su impacto en el fortalecimiento de la democracia."
+        "Desempeñó funciones de ayudante académica en el curso de Derechos Humanos de la Escuela de Trabajo Social y en el curso de Bailes Teatrales de la Escuela de Teatro, colaborando en la planificación de clases, el apoyo directo a los estudiantes y la evaluación de actividades prácticas."
       ]
-    },
-    {
-      "name": "Ray Tracer",
-      "summary": "Performed a Ray-Tracer algorithm in C++ with ray-object collision detection by using BVH.",
-      "highlights": ["C++", "Computer Graphics"],
-      "startDate": "2024-01",
-      "endDate": "2024-01",
-      "url": "https://github.com/lamhagoel/GraphicsRayTracing"
-    },
-    {
-      "name": "Implementation of a Thread Scheduling System with Priority Levels",
-      "summary": "Developed a the system considering priority levels for each thread. Constructed a simplified Linux kernel and user mode to integrate with the scheduling.",
-      "highlights": ["C++", "Computer Systems"],
-      "startDate": "2024-03",
-      "endDate": "2024-05"
-    },
-    {
-      "name": "Black-Box Adversarial Attacks against Models of Code",
-      "summary": "Implemented and analyzed a generalizable black-box attack agains models of code",
-      "highlights": ["Python", "Model of Code"],
-      "startDate": "2023-01",
-      "endDate": "2023-04",
-      "url": "https://github.com/lamhagoel/adversarial-examples"
-    },
-    {
-      "name": "Frequency Based Histogram Query Optimizer",
-      "summary": "Executed a Frequency Based Histogram Query Optimizer for Efficient Join Order Selection.",
-      "highlights": ["SQL","Java", "Join Order Selection"],
-      "startDate": "2023-01",
-      "endDate": "2023-03",
-      "url": "https://gitlab.com/xxks-kkk/histogram-optimizer/-/tree/master?ref_type=heads"
-    },
-    {
-      "name": "Procedural walking simulator inspired by Minecraft",
-      "summary": "Developed CPU-based terrain generation and GPU-accelerated procedural texture synthesis utilizing Perlin noise, introduced fractal trees using L-systems and multi-octave value noise.",
-      "highlights": ["Typescript", "Computer Graphics"],
-      "startDate": "2024-03",
-      "endDate": "2024-04",
-      "url": "https://github.com/jdgaete/minecraft"
-    },
-    {
-      "name": "Speech-to-Speech Translation (S2ST): A Survey",
-      "summary": "A paper focused on the task of S2ST. Centered on direct, text-less and multilingual S2ST.",
-      "highlights": ["Speech-to-Speech Translation"],
-      "startDate": "2023-11",
-      "endDate": "2023-12",
-      "url": "https://drive.google.com/file/d/18JFoFnxrxXSH11Qh1ZFBpzekH3q4KGAw/view?usp=sharing"
-    },
-    {
-      "name": "Group Membership Management Protocols",
-      "summary": "Studied the different protocols in fault-tolerant distributed systems: synchronous, asynchronous and hybrids.",
-      "highlights": ["Distributed Systems", "Group Membership Management"],
-      "startDate": "2023-04",
-      "endDate": "2023-05",
-      "url": "https://drive.google.com/file/d/1EiDI9edAdtn4iNgm6UNu9EtVpIhqP8fG/view?usp=sharing"
-    },
-    {
-      "name": "Graduate Research, Pontificia Universidad Católica de Chile",
-      "summary": "Assessed the innovation and barriers of Chilean SMEs using data from Chile’s national surveys.",
-      "highlights": ["SME", "Innovation", "Industrial Engineer"],
-      "startDate": "2017-01",
-      "endDate": "2018-01",
-      "url": "https://drive.google.com/file/d/1Rarczh1n-IJNXyDbl8VnZhUtpIVwMgD9/view?usp=sharing"
-    },
-    {
-      "name": "Research Assistance, Pontificia Universidad Católica de Chile",
-      "summary": "Designed an entrepreneurship index following the OECD standards for ASELA.",
-      "highlights": "",
-      "startDate": "2017-01",
-      "endDate": "2018-08",
-      "url": ""
-    },
-    {
-      "name": "Undergraduate Research, Ecole Centrale de Lille at France",
-      "summary": "Performed research on the optimization of train conductors' schedules at SNCF (Société nationale des chemins de fer français). Developed solutions using linear programming and genetic algorithms for optimizing the assignment and scheduling of train conductors at Bordeaux train station, considering days off and union rules.",
-      "highlights": "",
-      "startDate": "2016-01",
-      "endDate": "2016-06",
-      "url": ""
     }
   ],
   "skills": [
