@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <center><p>Florencia 1182, dpto. 131</p></center>
     <center><p>Santiago, Chile</p></center>
 
 news: false # includes a list of news items
