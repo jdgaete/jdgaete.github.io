@@ -260,7 +260,7 @@
   ],
   "interests": [
     {
-      "name": "Visa Work and Holidays, Dinamarca y Nueva Zelanda",
+      "name": "Visa Work and Holidays. Dinamarca y Nueva Zelanda",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Marzo 2024 - Mayo 2025",
@@ -268,40 +268,55 @@
       ]
     },
     {
-      "name": "Compañía Estudio Santiago Danza",
+      "name": "Compañía Estudio Santiago Danza. Santiago, Chile",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Marzo 2024 - Mayo 2025",
-        "Formó parte del programa de visas de trabajo, obteniendo experiencia laboral en entornos internacionales, perfeccionando su nivel de inglés y ampliando su perspectiva intercultural."
+        "Enero 2022 - Marzo 2024",
+        "Bailarina en formación de la compañía de danza moderna y contemporánea, destacada por representar a la organización en competencias nacionales y apoyar en la planificación y ejecución de actividades artísticas y logísticas."
       ]
     },
     {
-      "name": "Visa Work and Holidays, Dinamarca y Nueva Zelanda.",
+      "name": "Compañía de Danza. Santiago, Chile",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Marzo 2024 - Mayo 2025",
-        "Formó parte del programa de visas de trabajo, obteniendo experiencia laboral en entornos internacionales, perfeccionando su nivel de inglés y ampliando su perspectiva intercultural."
+        "Enero 2017 - Marzo 2019",
+        "Bailarina en formación en técnica de danza, ballet y jazz, responsable de representar al instituto en diversos espacios culturales y de promover la danza espectáculo."
       ]
     },
     {
-      "name": "Visa Work and Holidays, Dinamarca y Nueva Zelanda.",
+      "name": "Selección de Danza UC. Santiago, Chile.",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Marzo 2024 - Mayo 2025",
-        "Formó parte del programa de visas de trabajo, obteniendo experiencia laboral en entornos internacionales, perfeccionando su nivel de inglés y ampliando su perspectiva intercultural."
+        "marzo 2015 - noviembre 2018",
+        "Pontificia Universidad Católica de Chile",
+        "Formó parte de la Selección de Danza UC en la modalidad de bailes urbanos, asumiendo la responsabilidad de participar y representar a la universidad en competencias nacionales e internacionales."
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor Julio Pertuze, PhD. Thesis Advisor",
+      "name": "Octavio Sufán Farías",
       "icon": "fa-solid fa-laptop",
-      "reference": "jpertuze@ing.puc.cl  |  +56 9 6102 2661"
+      "reference": [
+        "Socio Fundador en Sufán Abogados; Ex Jefe de Estudios Regionales de la Defensoría Penal Pública Metropolitana Norte y Ex Defensor Público Interamericano, AIDEF.",
+        "Contacto: +(569) 7748 7110"
+      ]
     },
     {
-      "name": "Stephano Gachet. Former Supervisor",
+      "name": "Isidora Arismendi Acevedo",
       "icon": "fa-solid fa-laptop",
-      "reference": "stephano.gachet@latam.com  |  +56 9 6108 4406"
+      "reference": [
+        "Coordinadora de Ayudas Estudiantiles, Unidad de Bienestar Estudiantil, Dirección de asuntos Estudiantiles, Universidad Diego Portales.",
+        "Contacto: +(569) 8235 9956"
+      ]
+    },
+    {
+      "name": "Ana Figarí Bravo",
+      "icon": "fa-solid fa-laptop",
+      "reference": [
+        "Trabajadora Social, Perito Social y Consejera Técinca del Tribunal de Familia.",
+        "Contacto: +(569) 8837 2208"
+      ]
     }
   ]
 }
