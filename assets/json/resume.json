@@ -188,6 +188,8 @@
     {
       "name": "Casos de Connotación Pública",
       "location": "Santiago, Chile",
+      "startDate": "2021-07",
+      "endDate": "Actual",
       "summary": "",
       "highlights": [
         "Martín de Los Santos: Realizó la evaluación social del imputado, identificando recursos, potencialidades y riesgo de reincidencia.",
@@ -200,18 +202,94 @@
   ],
   "awards": [
     {
-      "title": "Mecesup Academic Scholarship",
-      "date": "2013-06",
-      "awarder": "Chilean Government",
+      "title": "Matrícula de Honor UC",
+      "date": "2020",
+      "awarder": "Pontificia Universidad Católica de Chile",
       "url": "",
-      "summary": "Scholarship awarded to students with excellent academic performance pursuing studies abroad."
+      "summary": "Distinción otorgada por la excelencia académica y el mejor rendimiento de su generación."
     },
     {
-      "title": "Bicentenario Academic Scholarship",
-      "date": "2015-07",
-      "awarder": "Chilean Government",
+      "title": "Yo Elijo mi PC",
+      "date": "2009",
+      "awarder": "Gobierno de Chile",
       "url": "",
-      "summary": "Scholarship for students with excellent academic performance and low resources"
+      "summary": "Beca por alto rendimiento académico para estudiantes vulnerables que incluyó la entrega de equipo tecnológico para apoyo en los estudios."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Manejo de herramientas digitales",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Microsoft 365, SPSS, RRSS, Canvas, Prezi, Google Suite y LaTeX."
+      ]
+    },
+    {
+      "name": "Habilidades interpersonales",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "comunicación estratégica, liderazgo colaborativo, gestión de proyectos, facilitación de grupos, análisis reflexivo, adaptabilidad y articulación interinstitucional."
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo",
+      "icon": ""
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Fluido",
+      "icon": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Dansekapellet",
+      "location": "Copenhague, DK",
+      "position": "Voluntariado",
+      "url": "",
+      "startDate": "2024-04",
+      "endDate": "2024-09",
+      "summary": "Se encargó de la coordinación de talleres de danza urbana para jóvenes, difundiendo y gestionando actividades de improvisación coreográfica que fomentaron la creatividad y el trabajo en equipo. Además, diseñó e impartió un curso de danza centrado en la cultura latinoamericana, integrando más de 30 participantes de distintas nacionalidades.",
+      "highlights": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Visa Work and Holidays, Dinamarca y Nueva Zelanda",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Marzo 2024 - Mayo 2025",
+        "Formó parte del programa de visas de trabajo, obteniendo experiencia laboral en entornos internacionales, perfeccionando su nivel de inglés y ampliando su perspectiva intercultural."
+      ]
+    },
+    {
+      "name": "Compañía Estudio Santiago Danza",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Marzo 2024 - Mayo 2025",
+        "Formó parte del programa de visas de trabajo, obteniendo experiencia laboral en entornos internacionales, perfeccionando su nivel de inglés y ampliando su perspectiva intercultural."
+      ]
+    },
+    {
+      "name": "Visa Work and Holidays, Dinamarca y Nueva Zelanda.",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Marzo 2024 - Mayo 2025",
+        "Formó parte del programa de visas de trabajo, obteniendo experiencia laboral en entornos internacionales, perfeccionando su nivel de inglés y ampliando su perspectiva intercultural."
+      ]
+    },
+    {
+      "name": "Visa Work and Holidays, Dinamarca y Nueva Zelanda.",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Marzo 2024 - Mayo 2025",
+        "Formó parte del programa de visas de trabajo, obteniendo experiencia laboral en entornos internacionales, perfeccionando su nivel de inglés y ampliando su perspectiva intercultural."
+      ]
     }
   ],
   "references": [
@@ -224,55 +302,6 @@
       "name": "Stephano Gachet. Former Supervisor",
       "icon": "fa-solid fa-laptop",
       "reference": "stephano.gachet@latam.com  |  +56 9 6108 4406"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Programming Knowledge",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python | C++ | C | Debugger Use (gdb) | Java | TypeScript | OpenGL | SQL | Linux (kernel/user mode) and Unix shell | R | VBA | Open Source (GitHub/ GitLab)."
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    },
-    {
-      "language": "French",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Pontificia Universidad Católica de Chile",
-      "location": "Santiago, Chile",
-      "position": "Teaching Assistance",
-      "url": "",
-      "startDate": "2011-01",
-      "endDate": "2017-12",
-      "summary": "Teaching Assistant for Introduction to Programming, Linear Algebra, Calculus III, Marketing and Time Series.",
-      "highlights": ""
-    },
-    {
-      "organization": "Ecole Centrale de Lille at France",
-      "location": "Lille, France",
-      "position": "President of University International Students Association.",
-      "url": "",
-      "startDate": "2014-01",
-      "endDate": "2014-12",
-      "summary": "Led a team of 6 people responsible for assisting the university international students. Organized and managed mentoring groups and provided assistance to new students as they adjusted to the  University. Planned and managed international students activities at the university to promote multiculturalism.",
-      "highlights": ""
     }
   ]
 }
